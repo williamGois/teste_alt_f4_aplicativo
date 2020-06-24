@@ -6,7 +6,7 @@ Para inicar
 
 ### `npm i`
 
-### `react-run android`
+### `react-native run-android`
 
 ### `Bicliotecas ultilizadas`
 
